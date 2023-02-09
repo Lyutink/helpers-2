@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Lyutink/helpers-2.git",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-fffcode/"
+    "build": "parcel build src/*.html --public-url /helpers-2/"
   },
   "repository": {
     "type": "git",
