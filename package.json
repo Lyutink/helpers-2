@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "helpers-2",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/Lyutink/helpers-2.git",
+  "homepage": "https://Lyutink.github.io/helpers-2",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /helpers-2.git/"
+    "build": "parcel build src/*.html --public-url /helpers-2/"
   },
   "repository": {
     "type": "git",
